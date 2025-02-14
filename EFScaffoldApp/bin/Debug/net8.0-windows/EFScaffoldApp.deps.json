@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "EFScaffoldApp/1.0.0": {
+        "runtime": {
+          "EFScaffoldApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EFScaffoldApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

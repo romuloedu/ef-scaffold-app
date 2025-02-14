@@ -1,0 +1,16 @@
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\bin\Debug\net8.0-windows\EFScaffoldApp.exe
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\bin\Debug\net8.0-windows\EFScaffoldApp.deps.json
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\bin\Debug\net8.0-windows\EFScaffoldApp.runtimeconfig.json
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\bin\Debug\net8.0-windows\EFScaffoldApp.dll
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\bin\Debug\net8.0-windows\EFScaffoldApp.pdb
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.MainApp.resources
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.csproj.GenerateResource.cache
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.AssemblyInfoInputs.cache
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.AssemblyInfo.cs
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.csproj.CoreCompileInputs.cache
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.dll
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\refint\EFScaffoldApp.dll
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.pdb
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\EFScaffoldApp.genruntimeconfig.cache
+C:\Users\squarelabs\source\repos\EFScaffoldApp\EFScaffoldApp\obj\Debug\net8.0-windows\ref\EFScaffoldApp.dll
